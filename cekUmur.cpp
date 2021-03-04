@@ -19,5 +19,5 @@ int main(){
 	cin >> tahun;
 	cout << "_____________________________________________" <<endl;
 	cout << " Hai " << nama <<endl;
-	cout << " Umur Anda " << 2020 - tahun << " Tahun " << " Nampaknya Anda Sudah Semakin Tua" <<endl;
+	cout << " Umur Anda " << 2021 - tahun << " Tahun " << " Nampaknya Anda Sudah Semakin Tua" <<endl;
 }
